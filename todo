@@ -1,6 +1,11 @@
 Tasks:
 
-  ☐ Setup requirejs
-  ☐ Setup test suite
-    ☐ Jasmine
+  ✔ Setup requirejs @done (13-08-17 12:53)
+  ✔ Setup test suite @done (13-08-17 13:54)
+    ✔ Jasmine @done (13-08-17 13:54)
     ☐ Sinon
+ Roman numerials:
+   ☐ Define Roman characters 1, 5, 10
+   ☐ Define each Roman numeral from 1 to 10
+   ☐ return the Roman numeral equivalent of the integer
+   ☐ calculate 10 to 20
